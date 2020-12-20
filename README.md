@@ -1,1 +1,4 @@
-# Git-Course-El-Zero
+# Git-Course
+For El Zero
+
+## Project Notes
